@@ -43,6 +43,7 @@
   border-radius: 20px;
   list-style: none;
   padding: 25px;
+  padding-left: 10px;
   background-image: linear-gradient(
     90deg,
     rgba(165, 215, 232, 0.42) 0%,
@@ -54,6 +55,7 @@
 }
 
 .aboutItem:hover {
+  margin-left: 15px;
   background-size: 100% 100%;
 }
 

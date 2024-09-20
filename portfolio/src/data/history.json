@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "SYMBIOLIVINGTECH",
+    "startDate": "June 2023",
+    "endDate": "August 2023",
+    "experiences": ["Contributed to the development of the service and UX system for Universal Design and Sustainability", "Focused on creating aging–friendly home modification tools and IoT solutions", "Designed a simple algorithm, digitalizing and analog game kit related to universal design and sustainability", "Revised practical plans for sustainable development goals in student education sustainability and over 200+ elementary model schools demonstrated", "Developed ESG and SDG learning tools for a purpose of educational resource"],
+    "imageSrc": "history/images.png"
+  },
+  {
+    "role": "Second Group Leader",
+    "organisation": "8th Army in Korea",
+    "startDate": "Nov, 2020",
+    "endDate": "May, 2022",
+    "experiences": ["Worked as an air traffic controller in Guardian AIC K-16 airbase", "Provided recommendations or notifications to pilots regarding route duplication and safe flight conditions in order for pilots to not encounter emergency situations", "Interacted with activated flights, offering weather information, permission to specific areas, and hot or cold status updates", "As a Second Group Leader, organized 5 soldiers' work schedules, day-offs, and break times", "Collaborated with Korean Army and Air Force to relay US Army’s flight plans as a representative and enabled to prevent a collision of air flight schedules or to mediate both schedules"],
+    "imageSrc": "history/Army.png"
+  }
+]

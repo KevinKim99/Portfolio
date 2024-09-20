@@ -1,26 +1,16 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "PEFORMA",
+    "imageSrc": "projects/peforma.png",
+    "description": "Peforma is a responsive web application developed to enhance the management of Computer Science department at UBC.",
+    "skills": ["React", "HTML", "CSS", "JavaScript", "Express", "Docker", "GitHub", "PostgreSql", "pgAdmin"],
+    "source": "https://github.com/UBCO-COSC499-Summer-2024/PEFORMA"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Ticket-Tech",
+    "imageSrc": "projects/ticket.jpeg",
+    "description": "Ticket-Tech is an online ticket selling platform that allows users to buy, sell, and resell tickets for various kinds.",
+    "skills": ["HTML", "CSS", "JavaScript", "Python", "Django db", "GitHub"],
+    "source": "https://github.com/KevinKim99/Ticket-Tech"
   }
 ]

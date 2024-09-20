@@ -7,7 +7,7 @@ import styles from "./Experience.module.css"
 export const Experience = () => {
   return (
     <section className={styles.container} id="experience">
-      <h2 className={styles.title}>Experience</h2>
+      <h2 className={styles.title}>Skills & Experience</h2>
       <div className={styles.content}>
         <div className={styles.skills}>
            {
@@ -26,7 +26,7 @@ export const Experience = () => {
                 <img src={getImageUrl(historyItem.imageSrc)} alt={`${historyItem.organisation} Logo`} />
               <div className={styles.historyItemDetails}>
                 <h3>{`${historyItem.role}, ${historyItem.organisation}`}</h3>
-                <p>{`${historyItem.startDate}, ${historyItem.endDate}`}</p>
+                <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
                 <ul>{historyItem.experiences.map((experience, id) => {
                   return <li key={id}>{experience}</li>
                 })}</ul>
